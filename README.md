@@ -1,4 +1,4 @@
-# Bank-Portfolio-Analysis-
+# Bank-Portfolio-Analysis
 
 Average Interest Rate:
 The important findings of the project are listed below : 

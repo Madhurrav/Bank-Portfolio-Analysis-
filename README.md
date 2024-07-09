@@ -1,7 +1,8 @@
 # Bank-Portfolio-Analysis
 
-Average Interest Rate:
 The important findings of the project are listed below : 
+
+Average Interest Rate:
 The overall average interest rate provided by the bank is calculated.
 
 Debt to Income Ratio:
